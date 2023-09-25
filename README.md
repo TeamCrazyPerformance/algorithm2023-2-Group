@@ -9,7 +9,7 @@
 
 - [박지훈](https://solved.ac/profile/pianop)
 - [박효근](https://solved.ac/profile/hyotaime)
-- [백승훈]()
+- [백승훈](https://www.acmicpc.net/user/lsa343636)
 - [고경남](https://solved.ac/profile/rhrudska987)
 - [김정완](https://solved.ac/profile/kjw4821)
 
