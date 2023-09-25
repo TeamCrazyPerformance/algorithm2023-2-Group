@@ -7,11 +7,11 @@
 
 ### 참여 인원
 
-- [박지훈](https://www.acmicpc.net/user/pianop)
-- [박효근]()
+- [박지훈](https://solved.ac/profile/pianop)
+- [박효근](https://solved.ac/profile/hyotaime)
 - [백승훈]()
-- [고경남]()
-- [김정완]()
+- [고경남](https://solved.ac/profile/rhrudska987)
+- [김정완](https://solved.ac/profile/kjw4821)
 
 ### 알고리즘 공부용 추천 영상, 블로그
 [바킹독 유튜브](https://youtube.com/playlist?list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY)  
